@@ -7,7 +7,7 @@ import numpy as np
 
 
 st.title("CARTOON MAKER")
-st.header("Upload your fav juicy pics cvt into amazing cartoon char")
+st.header("Upload your fav pics and convert into amazing cartoon characters!")
 st.info("File type should be : png jpg jpeg")
 
 
